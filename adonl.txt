@@ -1,0 +1,10 @@
+0.0.0.0 holahupa.com
+0.0.0.0 livejasmin.com
+0.0.0.0 adtng.com
+0.0.0.0 google-analytics.com
+0.0.0.0 orbsrv.com
+0.0.0.0 adbro.me
+0.0.0.0 platform.pubadx.one
+0.0.0.0 ad-delivery.net
+0.0.0.0 ads-twitter.com
+0.0.0.0 adglare.net
