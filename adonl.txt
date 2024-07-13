@@ -8,3 +8,11 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 ads-twitter.com
 0.0.0.0 adglare.net
+0.0.0.0 prettygame666.com
+0.0.0.0 b52.game
+0.0.0.0 debet.net
+0.0.0.0 sun.win
+0.0.0.0 hitclub.fun
+0.0.0.0 go88.com
+0.0.0.0 rik.vip
+0.0.0.0 vip79.vip
